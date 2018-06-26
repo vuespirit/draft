@@ -1,0 +1,56 @@
+.nav-wrapper.container {
+  min-width: 95%;
+}
+
+nav a.brand-logo, nav ul li a {
+  color: black;
+}
+
+nav a.brand-logo {
+  padding-top: 0.25%;
+}
+
+nav a.brand-logo img{
+  max-width: 4rem;
+}
+
+nav li a i.icon {
+  color: #3f51b5;
+}
+
+.amber.lighten-5 {
+  background-color: rgb(255, 248, 225) !important;
+}
+
+.btn-round {
+  border-radius: 2rem;
+}
+
+img.bg.dark-bg {
+  object-fit: cover;
+  height: 15rem;
+  width: 100%;
+  object-position: bottom;
+  filter: brightness(0.7);
+}
+
+ul.nav-cats li {
+  display: inline-block;
+}
+
+ul.nav-cats li a {
+  padding: 0.4rem 1rem;
+  color: black;
+}
+
+ul.nav-cats li:hover a {
+  color: #ffa726;
+}
+
+main .container {
+  min-width: 90%;
+}
+
+.col-title {
+  margin-left: 2rem;
+}
